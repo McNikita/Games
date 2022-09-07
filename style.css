@@ -1,0 +1,45 @@
+.card {
+	display: inline-block;
+	width: 18%;
+	background-color: white;
+	text-align: center;
+	height: 470px;
+    border: 1px solid black;
+    border-radius: 5px;
+vertical-align: top;
+}
+
+img{
+	width: 100%;
+	border-radius: 5px 5px 0 0;
+}
+body{
+	background-color: rgb(0, 255, 128);
+	text-align: center;
+}
+h1{
+	text-align: center;
+	color: white;
+}
+
+.button{
+	background-color: rgb(red, green, blue)(174, 240, 196);
+	text-decoration: none;
+	color: #ffffff;
+	border-radius: 45px;
+	display: inline-block;
+	width: 40%;
+	font-size: 14px;
+
+}
+a{
+	background-color: green;
+	
+}
+
+	
+
+
+
+
+
